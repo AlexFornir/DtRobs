@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\Compiliutor\Compiliutor\bin\Debug\Compiliutor.exe.config
+C:\Users\Alex\source\repos\Compiliutor\Compiliutor\bin\Debug\Compiliutor.exe
+C:\Users\Alex\source\repos\Compiliutor\Compiliutor\bin\Debug\Compiliutor.pdb
+C:\Users\Alex\source\repos\Compiliutor\Compiliutor\obj\Debug\Compiliutor.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Compiliutor\Compiliutor\obj\Debug\Compiliutor.Form1.resources
+C:\Users\Alex\source\repos\Compiliutor\Compiliutor\obj\Debug\Compiliutor.Properties.Resources.resources
+C:\Users\Alex\source\repos\Compiliutor\Compiliutor\obj\Debug\Compiliutor.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Compiliutor\Compiliutor\obj\Debug\Compiliutor.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Compiliutor\Compiliutor\obj\Debug\Compiliutor.exe
+C:\Users\Alex\source\repos\Compiliutor\Compiliutor\obj\Debug\Compiliutor.pdb
